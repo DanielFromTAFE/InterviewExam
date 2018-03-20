@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\InterviewExam\interview\bin\Debug\netcoreapp2.0\interview.deps.json
+C:\Users\Daniel\Desktop\InterviewExam\interview\bin\Debug\netcoreapp2.0\interview.runtimeconfig.json
+C:\Users\Daniel\Desktop\InterviewExam\interview\bin\Debug\netcoreapp2.0\interview.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\InterviewExam\interview\bin\Debug\netcoreapp2.0\interview.dll
+C:\Users\Daniel\Desktop\InterviewExam\interview\bin\Debug\netcoreapp2.0\interview.pdb
+C:\Users\Daniel\Desktop\InterviewExam\interview\obj\Debug\netcoreapp2.0\interview.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\InterviewExam\interview\obj\Debug\netcoreapp2.0\interview.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\InterviewExam\interview\obj\Debug\netcoreapp2.0\interview.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\InterviewExam\interview\obj\Debug\netcoreapp2.0\interview.dll
+C:\Users\Daniel\Desktop\InterviewExam\interview\obj\Debug\netcoreapp2.0\interview.pdb
